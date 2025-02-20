@@ -30,11 +30,11 @@
   }
 }
 
-h1 {
+/* h1 {
   animation-duration: 1.3s;
   animation-name: bounce;
   animation-iteration-count: 1;
-}
+} */
 
 h1 span {
   display: inline-block;
@@ -42,7 +42,7 @@ h1 span {
   animation-name: grow-shrink;
 }
 
-@keyframes slide-in {
+/* @keyframes slide-in {
   from {
     translate: 150vw 0;
     scale: 200% 1;
@@ -52,7 +52,7 @@ h1 span {
     translate: 0 0;
     scale: 100% 1;
   }
-}
+} */
 
 @keyframes grow-shrink {
 
@@ -68,7 +68,7 @@ h1 span {
 }
 
 
-p {
+/* p {
   animation-duration: 3.2s;
   animation-name: slide-in;
 }
@@ -87,7 +87,7 @@ p {
     scale: 100% 1;
     background-attachment: fixed;
   }
-}
+} */
 
 
 .breadcrumb-custom .breadcrumb-item {
